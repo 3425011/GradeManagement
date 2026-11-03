@@ -1,0 +1,10 @@
+# ===== 构建产物 =====
+target/
+
+# ===== IDE / 插件配置 =====
+.idea/
+.smarttomcat/
+*.iml
+
+# ===== 数据库配置（含本地密码，不提交到仓库）=====
+src/main/resources/db.properties
